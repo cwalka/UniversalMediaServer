@@ -82,7 +82,7 @@ Be sure to remember the install location.
 
 ### Linux
 
-    sudo apt-get install openjdk-7-jdk
+    sudo apt-get install openjdk-8-jdk
 
 ### macOS
 
@@ -123,7 +123,7 @@ See http://maven.apache.org/download.html
 
 ### Linux
 
-    sudo apt-get install maven3
+    sudo apt-get install maven
 
 ### macOS
 
